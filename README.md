@@ -30,8 +30,8 @@ boring. The game includes three levels of difficulty - Easy, Medium and Hard.
 - Ilian Yanev (Game Designer)
 - Vasil Mladenov (Game Developer)
 - Yoana Agafonova (Game Tester)
-- Alexandra Petrova (Documentary)
-- Jasmine Mihaleva (Documentary)
+- Aleksandra Petrova (Documentary)
+- Zhasmina Mihaleva (Documentary)
 
 ## Documentation, Presentation, Flowchart and Game testing
 
