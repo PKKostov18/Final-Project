@@ -1,5 +1,5 @@
 <p align="center" text-align="center">
-<img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/ZaFe_logo.png" width="350" height="350">  
+<img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Images/ZaFe_logo.png" width="350" height="350">  
   
 <h1 align="center" >Game project </h1>
 </p>
@@ -12,9 +12,9 @@ boring. The game includes three levels of difficulty - Easy, Medium and Hard.
 
 ## Used technologies
 
-- <img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/C%23_logo.png" width="15" height="15"> C#
+- <img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Images/C%23_logo.png" width="15" height="15"> C#
 
-- <img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Unity_logo.png" width="15" height="15"> Unity
+- <img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Images/Unity_logo.png" width="15" height="15"> Unity
 
 ## Features
 
@@ -35,10 +35,10 @@ boring. The game includes three levels of difficulty - Easy, Medium and Hard.
 
 ## Documentation, Presentation, Flowchart and Game testing
 
-- [Documentation]()
-- [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/pkkostov18_codingburgas_bg/EQLJpXWAEIZNnNh36k0JQ8wBlUSutooJoJ3G5i_WgWYmOA?e=ZiBkVJ)
-- [Flowchart](https://codingburgas-my.sharepoint.com/:i:/g/personal/pkkostov18_codingburgas_bg/EdPpORafXE9OokNHtu3aUj0B1xDfmCVaHYr5OEtVMPMBww?e=WKoHrH)
-- [Game testing]()
+- [Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/pkkostov18_codingburgas_bg/EcPByMuGL2FAuwLjmmpbwxMBJcPx_bi1SSLA5j-5XgzLxg?e=GUKY6y)
+- [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/pkkostov18_codingburgas_bg/EQLJpXWAEIZNnNh36k0JQ8wBlUSutooJoJ3G5i_WgWYmOA?e=25sWRg)
+- [Flowchart](https://codingburgas-my.sharepoint.com/:b:/g/personal/pkkostov18_codingburgas_bg/EZUxJ-y5k3NOi5p8BLU5XU8B7vFAEiwPpKAnPEH3jB51kg?e=neFDib)
+- [Game testing](https://codingburgas-my.sharepoint.com/:x:/g/personal/pkkostov18_codingburgas_bg/EbwOhTpyeiBErZvFmbospQ4Bvl3KaiSV4NO9xwpoWheaAA?e=a0twWO)
 
 ***
 
@@ -52,11 +52,11 @@ Open the command prompt and write this:
 
 ### Step 2: Open your Unity Hub and select the `Add` button
 
-<img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Unity_hub.png" width="1877" height="400">
+<img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Images/Unity_hub.png" width="1877" height="400">
 
 ### Step 3: Go to the folder with the repository, open it and select `Final Project` folder
 
-<img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Folder_image.png" width="800" height="400">
+<img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Images/Folder_image.png" width="800" height="400">
 
 ***
 
