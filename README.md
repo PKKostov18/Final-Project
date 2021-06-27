@@ -36,8 +36,8 @@ boring. The game includes three levels of difficulty - Easy, Medium and Hard.
 ## Documentation, Presentation, Flowchart and Game testing
 
 - [Documentation]()
-- [Presentation]()
-- [Flowchart]()
+- [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/pkkostov18_codingburgas_bg/EQLJpXWAEIZNnNh36k0JQ8wBlUSutooJoJ3G5i_WgWYmOA?e=ZiBkVJ)
+- [Flowchart](https://codingburgas-my.sharepoint.com/:i:/g/personal/pkkostov18_codingburgas_bg/EdPpORafXE9OokNHtu3aUj0B1xDfmCVaHYr5OEtVMPMBww?e=WKoHrH)
 - [Game testing]()
 
 ***
