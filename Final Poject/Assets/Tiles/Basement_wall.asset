@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Basement_wall
   m_EditorClassIdentifier: 
   m_DefaultSprite: {fileID: 21300000, guid: feb6035453961b8439bf4211f19b8798, type: 3}
-  m_DefaultGameObject: {fileID: 8536666986241426770, guid: 4a89da50df0c9cf44a9530a72360412a,
+  m_DefaultGameObject: {fileID: 2657906926722194305, guid: 2e92461d0ecfa14468bddff9bdb2eaf1,
     type: 3}
-  m_DefaultColliderType: 1
+  m_DefaultColliderType: 0
   m_TilingRules: []
