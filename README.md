@@ -60,4 +60,12 @@ Open the command prompt and write this:
 
 ***
 
-### You also can install the game on your comuter from the setup in the repository
+## You also can install the game on your comuter from the setup in the repository
+
+### Step 1: Click on the `Releases` in the repository
+
+<img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Images/GitHub_release.png" width="1000" height="600">
+
+### Step 2: Click on the `exe` file and install it to play the game
+
+<img src="https://github.com/PKKostov18/Final-Project/blob/main/Docs/Images/Setup_release.png" width="1000" height="450">
