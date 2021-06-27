@@ -5,19 +5,43 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Level 2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Starting scene.unity
+    guid: 13640f06b2d622a44ba1086a12889940
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 22c7e16bd5ab1304ba633333b10655ed
   - enabled: 1
-    path: Assets/Scenes/Level 2.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
     path: Assets/Scenes/Level 1 - easy.unity
     guid: 4db3f8379ce687a4e9696a9203a2635d
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - medium.unity
+    guid: 44220b55a7235e544a5e16f43e45efd6
   - enabled: 1
     path: Assets/Scenes/Level 1 - hard.unity
     guid: b43b8a1568130024a96ac7a0f1715d90
   - enabled: 1
-    path: Assets/Scenes/Level 1 - medium.unity
-    guid: 44220b55a7235e544a5e16f43e45efd6
+    path: Assets/Scenes/Level 2 - easy.unity
+    guid: 8dccd53dac476434fa0ef6b341073548
+  - enabled: 1
+    path: Assets/Scenes/Level 2 - medium.unity
+    guid: dc41a2366b9007242ad4de294718139a
+  - enabled: 1
+    path: Assets/Scenes/Level 2 - hard.unity
+    guid: 7bd7f65bfc8685343ac265f9d716d265
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - easy.unity
+    guid: 265c5366b43361a489ad141f48d61996
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - medium.unity
+    guid: 4ef0ddebf143cf046b7ea04df2404de8
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - hard.unity
+    guid: de2ba1ca5d65e71449345c15bc8f9c44
+  - enabled: 1
+    path: Assets/Scenes/Ending scene.unity
+    guid: a0bd577571290324ebc76eb3effcc924
   m_configObjects: {}
